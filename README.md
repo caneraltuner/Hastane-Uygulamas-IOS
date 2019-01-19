@@ -1,2 +1,2 @@
 # Hastane-Uygulamas-IOS
-Hastane Uygulamasının IOS versiyonu
+IOS version of Hospital Program:https://github.com/caneraltuner/Hastane-Otomasyonu
